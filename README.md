@@ -57,6 +57,7 @@ Applied preprocessing steps to improve model performance.
  - r^2 value was: 0.7692(lightgbm--bestmodel)
   ![Screenshot 2024-12-21 014304](https://github.com/user-attachments/assets/dc307b5d-a7fa-40c6-9cb5-d8586bc9ad88)
 
-after data-preprocessing and applying various models :
--r^2 value became: 0.8291 (lightgbm -best model)
+  after data-preprocessing and applying various models :
+  
+  - r^2 value became: 0.8291 (lightgbm -best model)
 ![Screenshot 2024-12-21 014209](https://github.com/user-attachments/assets/8da7de1e-4faa-4de9-bd79-9b0902d17b5c)
